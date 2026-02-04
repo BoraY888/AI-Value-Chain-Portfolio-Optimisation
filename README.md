@@ -36,3 +36,10 @@ Investment professionals have overvalued AI’s impact compared to its current c
 - "GARCH Models in Python" - DataCamp Course created by Chelsea Yang
 - "Introduction to Portfolio Analysis in Python" - DataCamp Course created by Charlotte Werger
 - "Quantitative Risk Management in Python" - DataCamp Course created by Jamsheed Shorish 
+
+---
+**Instructions**
+---
+1. Download Jupyter Notebooks (.ipynb)
+2. Open in Jupyter Environment (Google Colab, VSCode, etc.)
+3. Connect and Run All
